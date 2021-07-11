@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tax-mass-services-app"
+    }
+  },
+  "defaultProject": "tax-mass-services-app",
+  "cli": {
+    "analytics": "55b570df-8fb0-4320-be88-13957362888c"
+  }
 }
